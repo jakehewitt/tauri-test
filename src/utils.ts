@@ -1,0 +1,1 @@
+export const isTauri = window && typeof window.__TAURI_IPC__ !== undefined;
